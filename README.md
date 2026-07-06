@@ -9,6 +9,6 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Student Name:
-Course:
-Section:
+Student Name: Ochoa, Roger Clement P.
+Course: BSIT-BA
+Section: 2C
